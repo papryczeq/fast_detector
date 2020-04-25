@@ -1,0 +1,4 @@
+tensorflow>=2.1
+Pillow
+numpy
+opencv-python
